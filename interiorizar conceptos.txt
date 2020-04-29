@@ -2,3 +2,4 @@ este es un archivo de prueba para
 interiorizar conceptos aprendidos
 
 1.comenzamos con el git add
+2. probar git reset
