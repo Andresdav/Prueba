@@ -8,3 +8,9 @@ body
 {
     border: 2px solid #ddd;
 }
+#Cabecera {
+    background: blue;
+    text-align: center;
+    color: chocolate;
+    
+}
